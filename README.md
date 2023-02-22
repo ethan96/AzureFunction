@@ -1,4 +1,4 @@
-# AzureFunction
+# AzureFunction (Visual studio code)
 
 ### 1. Install node js
 ### 2. Install Azure func cli
